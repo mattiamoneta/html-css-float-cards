@@ -1,8 +1,8 @@
 /* DEBUG */
 
-.debug{
+/* .debug{
     background-color: red;
-}
+} */
 
 /* Defaults */
 
@@ -71,9 +71,11 @@ section.container{
 
 .card-text{
     padding-left: 10px;
+    padding-top: 15px;
     float: left;
     background-color: green;
-    transform: translateY(25%);
+    height: 100px;
+    /* transform: translateY(25%); */
 }
 
 
